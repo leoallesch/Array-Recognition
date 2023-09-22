@@ -6,3 +6,5 @@ A = tf.constant([[0,0,0],[0,0,0],[0,0,0]])
 print(A.get_shape())
 
 A.write()
+
+#push
